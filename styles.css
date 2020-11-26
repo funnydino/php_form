@@ -16,14 +16,6 @@ body {
   background-color: #fff;
 }
 
-body.lock {
-  overflow: hidden;
-  user-select: none;
-  left: 0;
-  top: 0;
-  width: 100%;
-}
-
 h1,
 h2,
 h3,
